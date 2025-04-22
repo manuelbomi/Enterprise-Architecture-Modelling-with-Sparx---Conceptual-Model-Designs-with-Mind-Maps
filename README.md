@@ -8,7 +8,14 @@ Mind maps diagrams such as shown below may be used to record the inputs from sev
 ![Image](https://github.com/user-attachments/assets/930c06e3-227c-47a5-9cf9-36823bb038b4)
 
 #### Logical Enterprise Models
-At this stage, business stakeholders, along with the enterprise architects will specify the limitations of the crrent business technologies. The types, attributes and relationships of the entities that will inhabit the system being designed will be specified. The overarching objective is to develop a platform independent representation of the entities and their relationships.
+At this stage, business stakeholders, along with the enterprise architects will specify the limitations of the current business technologies. The types, attributes and relationships of the entities that will inhabit the system being designed will be specified. The overarching objective is to develop a platform independent representation of the entities and their relationships.
+
+A model such as shown below will be used at this stage. The model below was produced using Sparx Enterprise Architect software.
+
+![Image](https://github.com/user-attachments/assets/e6056cc5-b8d3-464b-aff7-97669f2eab2d)
+
+(Ref: https://www.sparxsystems.us/software/enterprise-architect/)
+
 
 #### Physical Physical Models
 At this stage of the enterprise architecture definition, questions regarding how to implement the logical models are answered. The database types, software and hardware types, timelines inputs, output(s) and how to solve the problems specified in the conceptual and logical layers  are discussed
@@ -30,9 +37,6 @@ Sparx Enterprise Architect is your ultimate digital blueprint designer – a com
 Sparx Systems Enterprise Architect is a collaborative modeling, design and management platform based on UML and related standards. 
 Sparx Systems Enterprise Architect is a visual modeling and design tool based on the OMG UML. The platform supports: the design and construction of software systems; modeling business processes; and modeling industry based domains. It is used by businesses and organizations to not only model the architecture of their systems, but to process the implementation of these models across the full application development life-cycle. 
 
-
-![Image](https://github.com/user-attachments/assets/e6056cc5-b8d3-464b-aff7-97669f2eab2d)
-(Ref: https://www.sparxsystems.us/software/enterprise-architect/)
 
 
 
