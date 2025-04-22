@@ -30,19 +30,17 @@ At this stage of the enterprise architecture definition, questions regarding how
 
 
 ##### Enterprise Architecture Modeling with Sparx - An Example
-Here, an example is shown regarding how to use mind maps to model the 
- 
+Here, an example is shown regarding how to use mind maps to record the details of the conceptual stage of the enterprise architecture modeling. A trial version of the Sparx Enterprise Architecture software is used to show how mind maps can be designed to record the conceptual stage of the enterprise architecture modeling. 
 
-
-
-
-
+####### After installing the Sparx Enterprise Architecture Modeling sofware, go to design and then select 'Model Builder' under the 'Create' category (Fig. 1 & Fig. 2 below)....
 
 
 ![Image](https://github.com/user-attachments/assets/07eb1adc-54b7-42c8-bf5b-c35b760ed644)
 
 
 ![Image](https://github.com/user-attachments/assets/93ae8988-ab85-46af-bfe2-c53c220e106e)
+
+####### Select the basic Mind Map category (Fig. 3 below)
 
 
 ![Image](https://github.com/user-attachments/assets/9115dff7-a197-4049-8534-8beddcc35336)
