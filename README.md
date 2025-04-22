@@ -45,14 +45,12 @@ Here, an example is shown regarding how to use mind maps to record the details o
 
 ![Image](https://github.com/user-attachments/assets/9115dff7-a197-4049-8534-8beddcc35336)
 
-###### Select Ming Mapping Diagram template (Fig. 4 and Fig. 5 below)
+###### Select Mind Mapping Diagram template (Fig. 4 )
 
 
 ![Image](https://github.com/user-attachments/assets/02cba44f-08f9-4373-b371-97eeefc09102)
 
-The template is a great way to start recording ideas that are generated during the conceptual phase of the enterprise architecture modeling discussion. The template can be edited to record the ongoing ideas/concepts/relatonships of the ongoing conceptual architecture modeling discussion. 
-
-###### The mind map can also be designed from ground up without using the template as shown in Fig. 7 below
+The template is a great way to start recording ideas that are generated during the conceptual phase of the enterprise architecture modeling discussion. The template can be edited to record the ongoing ideas/concepts/relatonships of the ongoing conceptual architecture modeling discussion (Fig. 5 and Fig. 6 below).
 
 
 ![Image](https://github.com/user-attachments/assets/52688c8a-b852-4747-8948-b1cc93e6a3ac)
@@ -61,6 +59,7 @@ The template is a great way to start recording ideas that are generated during t
 
 ![Image](https://github.com/user-attachments/assets/d1bcee2e-7b13-477e-b96b-8876b9d262d9)
 
+###### The mind map can also be designed from ground up without using the template as shown in Fig. 7 below
 
 ![Image](https://github.com/user-attachments/assets/8cdde2c0-63dc-476a-9917-8c3d46165565)
 
