@@ -32,3 +32,19 @@ Mind Mapping is a technique used to record ideas and organize information either
 
 
 ![Image](https://github.com/user-attachments/assets/52688c8a-b852-4747-8948-b1cc93e6a3ac)
+
+
+
+![Image](https://github.com/user-attachments/assets/d1bcee2e-7b13-477e-b96b-8876b9d262d9)
+
+
+![Image](https://github.com/user-attachments/assets/8cdde2c0-63dc-476a-9917-8c3d46165565)
+
+
+![Image](https://github.com/user-attachments/assets/917445fa-7295-4b0b-8ae6-bb2b78b7f06d)
+
+
+![Image](https://github.com/user-attachments/assets/6d8dae56-acb5-410b-85e1-d62db6fa6f7c)
+
+
+![Image](https://github.com/user-attachments/assets/72125894-f9f4-4984-8d22-be54e505e589)
