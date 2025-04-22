@@ -63,6 +63,7 @@ The template is a great way to start recording ideas that are generated during t
 
 ![Image](https://github.com/user-attachments/assets/8cdde2c0-63dc-476a-9917-8c3d46165565)
 
+###### By using the ground-up mind mapping design approach (without using a teplate), in Fig 8 - Fig 10 (below), a conceptual model of the stages involved in designning a fictitious bridge (LakenHouse Bridge) are shown. The interaction between the stages are shown with relationship (association) links. In subsequent discourses, the logical and physical models of the LakenHouse Bridge design using the Sparx Enterprise Architecture Modeling software will be discussed.
 
 ![Image](https://github.com/user-attachments/assets/917445fa-7295-4b0b-8ae6-bb2b78b7f06d)
 
