@@ -1,7 +1,7 @@
 # Enterprise-Architecture-Modelling-with-Sparx---Conceptual-Model-Designs-with-Mind-Maps
-In this discourse, stages of enterprise achitecture and data modeling are discussed. The uses of mind maps in all the stages are discussed. Examples are shown, regarding how mind maps are designed using Sparx Enteprise Architecture Modeling software.
+In this discourse, the stages of enterprise achitecture and data modeling are briefly discussed. The uses of mind maps in all the stages are discussed. Also shown are examples regarding how mind maps are designed using a trial version of the Sparx Enteprise Architecture Modeling software.
 
-#### Conceptual Enterprise Data Models
+### Conceptual Enterprise Data Models
 These models are constructed at a high level of abstraction. Discussion at this enterprise architecture modelling stage always involves the high level hierarchies of the business; i.e the stakeholders and emterprise data architects. System constraints are often not taken into account during this stage. The enterprise architects along with the business stakeholders will specify and define the needs of the organization in a broad sense. The architects will then organize the information needed to develop a system that can be used (in a broad sense) to solve the problem. 
 
 Mind maps diagrams such as shown below may be used to record the inputs from several stakeholders and the architects at this stage.
@@ -11,7 +11,7 @@ Mind maps diagrams such as shown below may be used to record the inputs from sev
 ###### Brief Discourse on Mind Maps
 A mind map is a diagram used to record, view, classify and organize concepts, and to generate new ideas. It is used to connects shared thoughts, ideas, words and concepts to a central idea or business concept. Mind Mapping is a technique used to record ideas and organize information either of an individual or a group of people. Mind mapping attempts to break linear thinking patterns by organizing ideas, concepts and information in clusters of logical branches around a central topic. The diagram can be used at any time during all stages of the enterprise architecture modeling but is commonly used extensively during the early phases when lots of exploration of ideas is being conducted.
 
-#### Logical Enterprise Data Models
+### Logical Enterprise Data Models
 At this stage, business stakeholders, along with the enterprise architects will specify the limitations of the current business technologies. The types, attributes and relationships of the entities that will inhabit the system being designed will be specified. The overarching objective is to develop a platform independent representation of the entities and their relationships.
 
 A model such as shown below will be used at this stage. The model below was produced using Sparx Enterprise Architect software.
@@ -21,22 +21,16 @@ A model such as shown below will be used at this stage. The model below was prod
 (Ref: https://www.sparxsystems.us/software/enterprise-architect/)
 
 ###### Sparx Enterprise Architecture Modelling Software
-Sparx Systems Enterprise Architect is a visual modeling and design tool based on the UML. The platform supports: the design and construction of software systems; modeling business processes; and modeling industry based domains. It is used by businesses and organizations to not only model the architecture of their systems, but to process the implementation of these models across the full application development life-cycle.
+Sparx Systems Enterprise Architect software is a visual modeling and design tool based on the UML (Unified Modeling Language). The platform supports: the design and construction of enterprise data architecture, enterprise software systems, modeling business processes, and modeling industry based domains. It is used by businesses and organizations to not only model the architecture of their systems, but to process the implementation of these models across the full application development life-cycle.
 
-
-#### Physical Physical Data Models
-At this stage of the enterprise architecture definition, questions regarding how to implement the logical models are answered. The database types, software and hardware types, timelines inputs, output(s) and how to solve the problems specified in the conceptual and logical layers  are discussed. In many instances, the physical model always mirrors the logical model. UML (Unified Modeling Language) diagrams may be used at this stage. Some UML software such as LucidChart could be used to convert the UML-based physical model into a software such as mermaid code and/or SQL codes.
+### Physical Physical Data Models
+At this stage of the enterprise architecture definition, questions regarding how to implement the logical models are answered. The database types, software and hardware types, timelines inputs, output(s) and how to solve the problems specified in the conceptual and logical layers  are discussed. In many instances, the physical model always mirrors the logical model. UML  diagrams may be used at this stage. Some UML software such as LucidChart could be used to convert the UML-based physical model into a software such as mermaid code and/or SQL codes.
 
 
 
 
 ##### Enterprise Architecture Modeling with Sparx - An Example
-Comprehensive
-Modeling solution for varying Architectural needs
-
-Sparx Enterprise Architect is your ultimate digital blueprint designer – a comprehensive modeling tool that transforms complex business strategies into crystal-clear visual roadmaps. Whether you’re navigating intricate software designs, mapping out enterprise architectures, or aligning IT with business goals, this powerful platform turns complexity into clarity.
-
-Sparx Systems Enterprise Architect is a collaborative modeling, design and management platform based on UML and related standards. 
+Here, an example is shown regarding how to use mind maps to model the 
  
 
 
