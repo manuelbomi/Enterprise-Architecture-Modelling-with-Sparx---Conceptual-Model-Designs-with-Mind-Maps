@@ -1,4 +1,4 @@
-# Enterprise-Architecture-Modelling-with-Sparx---Conceptual-Model-Designs-with-Mind-Maps
+# Enterprise Architecture Modelling with Sparx: Conceptual Model Designs with Mind Maps
 In this discourse, the stages of enterprise achitecture and data modeling are briefly discussed. The uses of mind maps in all the stages are discussed. Also shown are examples regarding how mind maps are designed using a trial version of the Sparx Enteprise Architecture Modeling software.
 ---
 ### Conceptual Enterprise Data Models
